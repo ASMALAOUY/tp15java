@@ -4,8 +4,7 @@
 
 ## Exercice 2.1: Utilisez les interfaces fonctionnelles standard.
 
-![image alt](<img width="670" height="433" alt="image" src="https://github.com/user-attachments/assets/654a4f53-8de0-4aa7-ae4a-a7a476a8372a" />
-)
+![image alt](https://raw.githubusercontent.com/ASMALAOUY/tp15java/c90d475c80b4814565d367404d00fd45e58e051c/ex2.jpg)
 
 ## Exercice 2.2: Utilisez les interfaces fonctionnelles pour types primitifs.
 
@@ -38,11 +37,11 @@
 
 ## Exercice 7.1: Gérez les exceptions dans les lambdas.
 
-![image alt]()
+![image alt](https://raw.githubusercontent.com/ASMALAOUY/tp15java/c90d475c80b4814565d367404d00fd45e58e051c/ex7.1.jpg)
 
 ## Exercice 8.1: Créez un système de validation avec des lambdas
 
-![image alt](https://raw.githubusercontent.com/ASMALAOUY/tp15java/c90d475c80b4814565d367404d00fd45e58e051c/ex7.1.jpg)
+![image alt](https://raw.githubusercontent.com/ASMALAOUY/tp15java/c90d475c80b4814565d367404d00fd45e58e051c/ex8.1.jpg)
 
 ## Exercice 9.1: Implémentez TriFunction avec andThen.
 
