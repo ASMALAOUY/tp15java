@@ -45,11 +45,11 @@
 
 ## Exercice 9.1: Implémentez TriFunction avec andThen.
 
-![image alt](https://raw.githubusercontent.com/ASMALAOUY/tp15java/c90d475c80b4814565d367404d00fd45e58e051c/ex8.1.jpg)
+![image alt](https://raw.githubusercontent.com/ASMALAOUY/tp15java/c90d475c80b4814565d367404d00fd45e58e051c/ex9.1.jpg)
 
  ## Exercice 9.2: Comptez les TODO dans des fichiers Java.
 
-![image alt](https://raw.githubusercontent.com/ASMALAOUY/tp15java/c90d475c80b4814565d367404d00fd45e58e051c/ex9.1.jpg)
+![image alt](https://raw.githubusercontent.com/ASMALAOUY/tp15java/c90d475c80b4814565d367404d00fd45e58e051c/ex9.2.jpg)
 
 ## Exercice 9.3: Créez un Comparator composé
 
